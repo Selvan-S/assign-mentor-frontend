@@ -1,0 +1,12 @@
+
+body{
+    background-color: hsl(215, 29%, 8%);
+    color: white;
+}
+
+@media (prefers-color-scheme: light) {
+  body {
+    background-color: hsl(213, 16%, 86%);
+    
+  }
+}
