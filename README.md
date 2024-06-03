@@ -3,7 +3,7 @@
 
 This is a frontend for the Assign Mentor Task. Built using the JavaScript, React, Express.js, MongoDB, Node.js and Tailwind CSS.<br /><hr />
 ## Links
-- Check out the live website [here]()!.
+- Check out the live website [here](https://assign-mentor-selvan.netlify.app/student)!.
 - To Check the Backend code of the Bookstore project, please refer to this [link](https://github.com/Selvan-S/assign-mentor-backend).
 ## Run
 Step 1: Clone or Fork the [`assign-mentor-backend`](https://github.com/Selvan-S/assign-mentor-backend) respository. Run the Backend, note the localhost.<br /><br/>
